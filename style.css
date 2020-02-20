@@ -417,7 +417,26 @@ body.impress-mouse-timeout {
   width: 500px;
   height: 500px;
 } */
-
+/* slide-7--------------------------------------------------------------- */
+/* .slide-7-content {
+} */
+.slide-7-content-h {
+  position: absolute;
+  top: 50%;
+  left: 12%;
+  transform: translate(-50%, -50%);
+  line-height: 1.4em;
+  font-size: 30px;
+  color: #84af6b;
+}
+.slide-7-content-she {
+  position: absolute;
+  top: 65%;
+  left: 54.8%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  height: 900px;
+}
 /*  */
 .strip {
   position: absolute;
